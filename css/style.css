@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: rgb(126, 73, 175)
+}
+.card {
+	width: 600px;
+	height: 200px;
+	margin-top: 90px;
+	margin-left: 400px;
+	padding: 30px 40px 30px 40px;
+}
+
+.li{
+	text-decoration: none;
+	
+	margin-top: 20px;
+}
+.btn{
+	width:80px;
+	height:40px;
+}
+.newlist{
+	width:430px;
+	list-style-type: none;
+	margin-top: 30px;
+}
+.newbutton{
+	float: right;
+	margin-top: -40px;
+}
+.empty-input{
+text-align: center;
+width:340px;
+margin: 25px 40px 0px 70px;
+}
